@@ -33,7 +33,7 @@ Welcome to our NextJS thrift store website! In a world of fast fashion and throw
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/thrift-store.git`
+1. Clone the repository: `git clone https://github.com/VanshWadhwa/thrift-store.git`
 2. Navigate to the project folder: `cd thrift-store`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
@@ -43,10 +43,3 @@ To run this project locally, follow these steps:
 
 We welcome contributions to improve the thrift store website. If you find any issues or have suggestions, feel free to open a pull request or raise an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support, please email us at contact@thriftstore.com or visit our website [thriftstore.com](https://www.thriftstore.com).
