@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Vintage Denim Jacket",
+        "categories": [
+            {
+                "name": "jacket",
+                "slug": "jacket"
+            },
+            {
+                "name": "clothing",
+                "slug": "clothing"
+            },
+            {
+                "name": "vintage",
+                "slug": "vintage"
+            }
+        ],
+        "slug": "vintage-denim-jacket",
+        "price": 500.0,
+        "quantity_available": 5,
+        "description": "A stylish and well-preserved denim jacket from the 80s.",
+        "images": [
+            {
+                "image": "https://source.unsplash.com/random/800x600/?vintage,denim,jacket"
+            }
+        ]
+    },
+    {
+        "name": "Retro Graphic T-shirt",
+        "categories": [
+            {
+                "name": "t-shirt",
+                "slug": "t-shirt"
+            },
+            {
+                "name": "clothing",
+                "slug": "clothing"
+            },
+            {
+                "name": "retro",
+                "slug": "retro"
+            }
+        ],
+        "slug": "retro-graphic-tshirt",
+        "price": 150.0,
+        "quantity_available": 8,
+        "description": "A cool graphic t-shirt with a retro design.",
+        "images": [
+            {
+                "image": "https://source.unsplash.com/random/800x600/?retro,graphic,tshirt"
+            }
+        ]
+    }
+]
