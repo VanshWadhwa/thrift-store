@@ -24,6 +24,8 @@ Welcome to our NextJS thrift store website! In a world of fast fashion and throw
 
 ![Thrift Store](demo.gif)
 
+or [Watch the demo video](demo.mkv)
+
 ## Technologies Used
 
 - NextJS
