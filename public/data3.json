@@ -1,6 +1,6 @@
 [
     {
-        "name": "Vintage Denim Jacket",
+        "name": "Women Dress",
         "categories": [
             {
                 "name": "jacket",
@@ -21,7 +21,7 @@
         "description": "A stylish and well-preserved denim jacket from the 80s.",
         "images": [
             {
-                "image": "https://source.unsplash.com/random/800x600/?vintage,denim,jacket"
+                "image": "https://source.unsplash.com/random/800x600/?women,dress,blue-dress"
             }
         ]
     },

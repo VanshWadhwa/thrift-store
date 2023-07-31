@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Thrift Store NextJS Website Project
+
+![Thrift Store](thumbnail.jpg)
+
+## Tagline
+
+"The online store we all need; the environment too."
+
+## Description
+
+Welcome to our NextJS thrift store website! In a world of fast fashion and throwaway mentality, we offer an economical and environmentally friendly alternative to buying new things. Our platform encourages sustainability by promoting the reuse of clothing and other items.
+
+## Features
+
+1. **Unique Try-On Feature**: Want to see how a piece of clothing looks on you before making a purchase? Our unique try-on feature allows you to virtually try on clothes to ensure the perfect fit and style.
+
+2. **Amazing Return Policy**: We value customer satisfaction. If you receive any damaged articles, you have 24 hours to return them with valid proof, and we will take care of the rest.
+
+3. **Secure Payment Gateway**: Your security is our top priority. We offer a secure payment gateway integrated with Polygon, ensuring smooth and safe transactions.
+
+4. **Minimal Selling Fee**: Are you a seller looking to reach a wide audience? We've got you covered! Sell your products on our platform with just a minimal selling fee that is automatically adjusted to suit your needs.
+
+## Demo Video
+
+![Thrift Store](demo.gif)
+
+## Technologies Used
+
+- NextJS
+- Tailwind CSS
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Clone the repository: `git clone https://github.com/your-username/thrift-store.git`
+2. Navigate to the project folder: `cd thrift-store`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to `http://localhost:3000`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+We welcome contributions to improve the thrift store website. If you find any issues or have suggestions, feel free to open a pull request or raise an issue.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## License
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project is licensed under the [MIT License](LICENSE).
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For any inquiries or support, please email us at contact@thriftstore.com or visit our website [thriftstore.com](https://www.thriftstore.com).
